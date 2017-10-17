@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="action_find_in_page">Find in page</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_open_in_browser">Open in browser</string>
+    <string name="action_page_info">Page information</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_request_desktop">Request desktop site</string>
+    <string name="action_share">Share&#8230;</string>
+
+    <string name="desc_menu_button">More options</string>
+</resources>

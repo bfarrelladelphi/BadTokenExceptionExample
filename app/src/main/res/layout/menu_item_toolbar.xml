@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeightSmall"
+    android:layout_gravity="top|start"
+    android:orientation="horizontal">
+
+    <ImageButton
+        android:id="@+id/actionButton1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="@style/Widget.AppCompat.ActionButton"/>
+
+    <ImageButton
+        android:id="@+id/actionButton2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="@style/Widget.AppCompat.ActionButton"/>
+
+    <ImageButton
+        android:id="@+id/actionButton3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="@style/Widget.AppCompat.ActionButton"/>
+
+    <ImageButton
+        android:id="@+id/actionButton4"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="@style/Widget.AppCompat.ActionButton"/>
+
+    <ImageButton
+        android:id="@+id/actionButton5"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="@style/Widget.AppCompat.ActionButton"/>
+
+</LinearLayout>
