@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+app/libs/
+build/android-profile/profile-2017-10-17-12-35-24-323.json
+build/android-profile/profile-2017-10-17-12-35-24-323.rawproto
+build/android-profile/profile-2017-10-17-12-35-25-636.json
+build/android-profile/profile-2017-10-17-12-35-25-636.rawproto
+build/kotlin/
